@@ -6,12 +6,12 @@ This project involves some basic step-by-step command lines we can find in any *
 
 We are going to use the average well known protocol of **machine learning** that is basically the loading of some data and the cleaning and model application upon it. We may use a tokenizer also. Then, we are going to save the model.
 
-![Workflow of our code](“.images/workflow_sentiment_analysis.png/”)
+![Code workflow](“images/workflow_sentiment_analysis.png/”)
 
 ## Neural Networks
 For this type of work, we may use **Neural Netwoks**, that are specially apt for abstract works. Although it may not be the most efficient model for some works that involve numerical analysis, it’s very useful for works like calligraphy recognition, disease prediction, playing chess etc. We may use the LSTM model of layers and neuron  arrangement. That’s the basic structure:
 
-![LSTM basic structure](“.images/lstm.png/”)
+![LSTM basic structure](“images/lstm.png/”)
 
 ## Tokenizer
 
