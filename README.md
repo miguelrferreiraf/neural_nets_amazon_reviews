@@ -11,7 +11,7 @@ We are going to use the average well known protocol of **machine learning** that
 ## Neural Networks
 For this type of work, we may use **Neural Netwoks**, that are specially apt for abstract works. Although it may not be the most efficient model for some works that involve numerical analysis, it’s very useful for works like calligraphy recognition, disease prediction, playing chess etc. We may use the LSTM model of layers and neuron  arrangement. That’s the basic structure:
 
-![LSTM basic structure](“images/lstm.png?raw=true "Title"/”)
+![LSTM basic structure](“images/lstm.png/”)
 
 ## Tokenizer
 
