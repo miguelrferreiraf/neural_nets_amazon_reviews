@@ -17,4 +17,4 @@ For this type of work, we may use **Neural Netwoks**, that are specially apt for
 
 The **tokenizer** is absolutely necessary for this algorithm. Tokenizer is a technology that allows the classification of parts of the text as strings with a semantic value that may be used for the neural network training. It’s a module that permits the creation of lexical  scanner. Since the most important part of the algorithm is the reading by the **Artificial Intelligence** we must use it.
 
-![Tokenizer work](“”)
+![Tokenizer work](“images/movie-was-good.PNG”)
