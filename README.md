@@ -45,6 +45,6 @@ Pretty simple.
 
 ### Embedding
 
-Embedding is other shit.
+Embedding is the process of vectorization of tokens. It's like stretching a vector from a token to tokens around and then establishing semantical conections among them. 
 
 <div align="center"><img src="images/embedding.PNG"><p><i>Embedding works as a layer of a LSTM network</i></p></div>
