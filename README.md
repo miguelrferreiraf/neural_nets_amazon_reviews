@@ -10,9 +10,20 @@ We are going to use the average well known protocol of **machine learning** that
 
 ## Neural Networks
 
-For this type of work, we may use **Neural Netwoks**, that are specially apt for abstract works. And we'll use LSTM achitecture for the network, as other specific technologies for text interpretation as tokenizers and embeddings. 
+For this type of work, we may use **Neural Netwoks**, that are specially apt for abstract works. And we'll use LSTM achitecture for the network, as other specific technologies for text interpretation as tokenizers and embeddings. Above we can see the LSTM format for neural nets:
 
 <div align="center"><img src="https://miguelrferreiraf.github.io/images/lstm_neuron.PNG?raw=true"><p><i>LSTM architecture for neural networks</i></p></div>
+
+...which goes like this in code:
+
+```
+# Create Model
+model = Sequential()
+model.add(Embedding(total_size, 20, input_length=max_length))
+# LSTM architecture
+model.add(LSTM(32,dropout=0.2, recurrent_dropout=0.2))
+model.add(Dense(1, activation='sigmoid'))
+```
 
 ### Tokenizers
 
