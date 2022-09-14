@@ -46,3 +46,5 @@ Pretty simple.
 ### Embedding
 
 Embedding is other shit.
+
+<div align="center"><img src="images/embedding.PNG"><p><i>Embedding works as a layer of a LSTM network</i></p></div>
