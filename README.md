@@ -14,12 +14,14 @@ For this type of work, we may use **Neural Netwoks**, that are specially apt for
 
 ### Tokenizers
 
-Tokenizers goes like:
+Tokenizers are a technology that take textual arrays and share it into 'pieces' with semantic value. Then it turns out to set a numeric value for each token and rescue this value when find similar tokens later through embedding process.
+
+Tokenizers in code goes like:
 
 ```
 #tokenizer
 tokenizer = Tokenizer()
-tokenizer.fit_on_texts(x_train)
+tokenizer.fit_on_texts(x_train) # x_train is our train text
 word_index=tokenizer.word_index
 total_size = len(word_index)+1
 print(total_size)
