@@ -8,10 +8,22 @@ This project involves some basic step-by-step command lines we can find in any *
 
 We are going to use the average well known protocol of **machine learning** that is basically the loading of some data and the cleaning and model application upon it. We may use a tokenizer also. Then, we are going to save the model.
 
-![Code workflow](“images/workflow_sentiment_analysis.png/”)
-
 ## Neural Networks
-For this type of work, we may use **Neural Netwoks**, that are specially apt for abstract works. Although it may not be the most efficient model for some works that involve numerical analysis, it’s very useful for works like calligraphy recognition, disease prediction, playing chess etc. We may use the LSTM model of layers and neuron  arrangement. That’s the basic structure:
+
+For this type of work, we may use **Neural Netwoks**, that are specially apt for abstract works. And we'll use LSTM achitecture for the network, as other specific technologies for text interpretation as tokenizers and embeddings. 
+
+### Tokenizers
+
+Tokenizers goes like:
+
+```
+#tokenizer
+tokenizer = Tokenizer()
+tokenizer.fit_on_texts(x_train)
+word_index=tokenizer.word_index
+total_size = len(word_index)+1
+print(total_size)
+```
 
 ![LSTM basic structure](“images/lstm.png/”)
 
