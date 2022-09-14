@@ -12,6 +12,8 @@ We are going to use the average well known protocol of **machine learning** that
 
 For this type of work, we may use **Neural Netwoks**, that are specially apt for abstract works. And we'll use LSTM achitecture for the network, as other specific technologies for text interpretation as tokenizers and embeddings. 
 
+<div align="center"><img src="https://miguelrferreiraf.github.io/images/lstm_neuron.PNG?raw=true"><p><i>LSTM architecture for neural networks</i></p></div>
+
 ### Tokenizers
 
 Tokenizers are a technology that take textual arrays and share it into 'pieces' with semantic value. Then it turns out to set a numeric value for each token and rescue this value when find similar tokens later through embedding process.
