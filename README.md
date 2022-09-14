@@ -48,3 +48,5 @@ Pretty simple.
 Embedding is the process of vectorization of tokens. It's like stretching a vector from a token to tokens around and then establishing semantical conections among them. 
 
 <div align="center"><img src="images/embedding.PNG"><p><i>Embedding works as a layer of a LSTM network</i></p></div>
+
+We all this technologies it becomes perfect possible to build a machine learning algorithm that can interpret a text and even write their own one. Scary:frowning:!
