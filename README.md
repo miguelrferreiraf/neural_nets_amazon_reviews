@@ -1,5 +1,5 @@
-# SENTIMENT ANALYSIS OF AMAZON MOVIE REVIEWS DATA USING TENSORFLOW
-
+# SENTIMENT ANALYSIS OF AMAZON MOVIE REVIEWS DATA USING TENSORFLOW :scroll:
+ 
 ## Machine Learning
 
 <div align="center"><img src="https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVhZGluZ3xlbnwwfHwwfHw%3D&w=1000&q=80" width=60% height=60%><p>An algorithm that can read?:fearful:</p></div>
