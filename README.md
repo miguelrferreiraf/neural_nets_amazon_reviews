@@ -19,10 +19,11 @@ Tokenizers are a technology that take textual arrays and share it into 'pieces' 
 Tokenizers in code goes like:
 
 ```
-#tokenizer
+# tokenizer
 tokenizer = Tokenizer()
 tokenizer.fit_on_texts(x_train) # x_train is our train text
 word_index=tokenizer.word_index
+# Now we count how many tokens we had:
 total_size = len(word_index)+1
 print(total_size)
 ```
