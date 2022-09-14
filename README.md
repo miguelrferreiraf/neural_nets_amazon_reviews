@@ -43,8 +43,6 @@ print(total_size)
 
 Pretty simple.
 
-![LSTM basic structure](“images/lstm.png/”)
-
 ### Embedding
 
 Embedding is other shit.
