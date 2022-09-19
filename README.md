@@ -8,7 +8,7 @@
 
 This project involves some basic step-by-step command lines we can find in any **machine learning** algorithm but that still can show us how powerful is the standard paradigm of machine learning algorithms. 
 
-Go to [code](https://github.com/miguelrferreiraf/neural_nets_amazon_reviews/blob/master/sentiment_analysis_reviews.ipynb)
+Go to [code](https://github.com/miguelrferreiraf/neural_nets_amazon_reviews/blob/master/sentiment_analysis_reviews.ipynb).
 
 We are going to use the average well known protocol of **machine learning** that is basically the loading of some data and the cleaning and model application upon it. We may use a tokenizer also. Then, we are going to save the model.
 
